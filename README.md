@@ -1,7 +1,7 @@
 # Portfolio
 DHDK projects
 
-- [Knowledge Extraction and Representation](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/454463) - ontology developement and SPARQL queries:
+- [Knowledge Extraction and Representation](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/454463) - ontology development and SPARQL queries:
 
     - project website: <https://songstopoems.github.io/STOP/>
     - repository: <https://github.com/SongsTOPoems/STOP>
@@ -23,7 +23,7 @@ DHDK projects
     - project website: <>
     - repository: <>
     
-- [Data Science](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/467046) - Developement of a software able to build relational and graph databases and query them: 
+- [Data Science](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/467046) - Development of a software able to build relational and graph databases and query them: 
     - repository: <>
     
 - [Distant Reading](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/424631) : 
