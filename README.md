@@ -11,7 +11,7 @@ DHDK projects
     - project website: <https://anastasia-romanlod.github.io/Anastasia-RomanLOD/>
     - repository: <https://github.com/Anastasia-RomanLOD/Anastasia-RomanLOD>
     
-- [Information Modelling and Web Technologies](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/454464) (ONGOING) - Web development of an interactive magazine :
+- [Information Modelling and Web Technologies](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/454464) (ONGOING) - Web development of an interactive magazine available in different typographic styles:
 
     - project website: (ONGOING) <https://under-the-magnifying-glass.github.io/>
     - repository: <https://github.com/Under-the-Magnifying-Glass/Under-the-Magnifying-Glass.github.io>
