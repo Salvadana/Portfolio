@@ -24,7 +24,6 @@ DHDK projects
     - repository: <>
     
 - [Data Science](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/467046)  : 
-    - project website: <>
     - repository: <>
     
 - [Distant Reading](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/424631) : 
@@ -32,5 +31,5 @@ DHDK projects
     - repository: <> 
     
 - [NLP](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/455487) : 
-    - project website: <>
+    
     - repository: <>
