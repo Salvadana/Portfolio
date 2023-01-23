@@ -21,7 +21,7 @@ DHDK projects
 
 - [Data Visualization](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/467047) (ONGOING)  - Exploratory Data Analysis: 
     - project website: <>
-    - repository: <>
+    - repository: <https://github.com/Salvadana/InfoViz>
     
 - [Data Science](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/467046) - Development of a software able to build relational and graph databases and query them: 
     - repository: <>
