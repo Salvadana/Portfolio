@@ -19,8 +19,8 @@ DHDK projects
 - [Interaction Media Design](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/454470): 
     - <a href="MUSEscape_DESIGN_BRIEF.pdf" class="image fit"><img src="images/marr_pic.jpg" alt="">Design Brief</a> and [Twine narrative](https://salvadana.github.io/Portfolio/twine.html) of the MusEscape experience
 
-- [Data Visualization](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/467047) (ONGOING)  - Exploratory Data Analysis: 
-    - project website: <>
+- [Information Visualization](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/467047)  : 
+    - project website: <https://safeandsoundinfoviz.github.io/safe_and_sound/>
     - repository: <https://github.com/Salvadana/InfoViz>
     
 - [Data Science](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/467046) - Development of a software able to build relational and graph databases and query them: 
