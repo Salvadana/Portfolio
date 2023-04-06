@@ -28,7 +28,7 @@ DHDK projects
     
 - [Digital Text and the Humanities](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/424631) - Development of an archive of Digital Documentary Editions of Sylvia Plath's writings : 
     - project website: <>
-    - repository: <> 
+    - repository: <https://github.com/TheBellJar-dse/TheBellJar-dse> 
     
 - [NLP](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/455487) : 
     
