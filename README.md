@@ -30,6 +30,3 @@ DHDK projects
     - project website: <https://sylviaplath-archive.github.io/SylviaPlath-Archive/index.html>
     - repository: <https://github.com/SylviaPlath-Archive/SylviaPlath-Archive> 
     
-- [NLP](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/455487) : 
-    
-    - repository: <https://github.com/Sebastiano-G/NLP-tokenizer>
