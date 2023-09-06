@@ -3,7 +3,7 @@ DHDK projects
 - [Data Science](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/467046) - Development of a software able to build relational and graph databases and query them: 
     - repository: <>
 - [Network Analysis](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/467048)
-    - repository: <>
+    - repository: <https://github.com/Salvadana/NetworkAnalysisProject/tree/main>
 - [Knowledge Extraction and Representation](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2021/454463) - topic detection through BERTtopic + ontology development and SPARQL queries:
 
     - project website: <https://songstopoems.github.io/STOP/>
